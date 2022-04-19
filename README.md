@@ -2,6 +2,9 @@
 
 ### 👋 I'm a Sinhye from South Korea.
 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    ![image](https://user-images.githubusercontent.com/87368059/163914595-96602bd3-714b-4893-9172-d915ffb1871f.png)
 
 ### 🛠 Tools
 
