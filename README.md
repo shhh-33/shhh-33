@@ -35,7 +35,7 @@
   ### 🖥 IDEs/Editors
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    <img src="https://img.shields.io/badge/viusalstudio-181717?style=for-the-badge&logo=viusalstudio&logoColor=white">
+   ![image](https://user-images.githubusercontent.com/87368059/163925201-46d9491d-5647-456f-a8b1-8255dd4f9123.png)
 
 
 
